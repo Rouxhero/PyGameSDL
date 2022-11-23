@@ -80,4 +80,4 @@ class DisplayManager:
         Returns:
             pygame.Surface: screen
         """
-        return self.__screen
+        return self.__screen    
